@@ -3,15 +3,15 @@ Weight loss tracker from start to finish using the '[lemonade master cleanse](ht
 
 Minimum of 6-8 glasses of mixture w/water per day.
 
-| Day  | Weight |
-| ------------- | ------------- |
-| 1  | **260** |
-| 2  | n/a |
-| 3  | n/a |
-| 4  | n/a |
-| 5  | n/a |
-| 6  | n/a |
-| 7  | n/a |
-| 8  | n/a |
-| 9  | n/a |
-| 10 | n/a |
+| Day | Weight | Glasses of Mix |
+| ------------- | ------------- |------------- |
+| 1  | **260** | 6 |
+| 2  | n/a | n/a |
+| 3  | n/a | n/a |
+| 4  | n/a | n/a |
+| 5  | n/a | n/a |
+| 6  | n/a | n/a |
+| 7  | n/a | n/a |
+| 8  | n/a | n/a |
+| 9  | n/a | n/a |
+| 10 | n/a | n/a |
