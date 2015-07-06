@@ -1,5 +1,5 @@
 # Weight-loss
-Weight loss tracker from start to finish using the 'lemonade' fast.
+Weight loss tracker from start to finish using the '[lemonade](http://organicmastercleanse.com/Step-2-How-To-Do-The-Lemonade-Diet.html)' fast.
 
 * **Day 1  -**
 **Weight:** 260
