@@ -1,6 +1,8 @@
 # Weight-loss
 Weight loss tracker from start to finish using the '[lemonade master cleanse](http://organicmastercleanse.com/Step-2-How-To-Do-The-Lemonade-Diet.html)'.
 
+Minimum of 6-8 glasses of mixture w/water per day.
+
 * **Day 1  -**
 **Weight:** 260
 * **Day 2  -**
