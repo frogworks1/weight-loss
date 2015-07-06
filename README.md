@@ -24,7 +24,15 @@ Minimum of 6-8 glasses of mixture w/water per day.
 * **Day 10 -**
 **Weight:** 
 
-| First Header  | Second Header |
+| Day  | Weight |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1   | 260   |
+| 2   | n/a   |
+| 3   | n/a   |
+| 4   | n/a   |
+| 5   | n/a   |
+| 6   | n/a   |
+| 7   | n/a   |
+| 8   | n/a   |
+| 9   | n/a   |
+| 10  | n/a   |
