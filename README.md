@@ -1,4 +1,4 @@
-# weight-loss
+# Weight-loss
 Weight loss tracker from start to finish
 
 * **Day 1 -**
