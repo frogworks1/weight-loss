@@ -1,7 +1,9 @@
 # Weight-loss
 Weight loss tracker from start to finish using the '[lemonade master cleanse](http://organicmastercleanse.com/Step-2-How-To-Do-The-Lemonade-Diet.html)'.
 
-*Minimum of 6-8 glasses of mixture w/water per day. 1 lavative pill in the morning and 1 in the evening.
+*Minimum of 6-8 glasses of mixture w/water per day. 
+
+1 lavative pill in the morning and 1 in the evening.
 
 | Day | Morning Weight | Evening Weight | Glasses* | Laxative Pill | Comments |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
